@@ -33,9 +33,6 @@ int main() {
     add(2, &myList);
     add(3, &myList);
     add(4, &myList);
-    add(3, &myList);
-    add(2, &myList);
-    add(1, &myList);
     
     printAll(myList);
     
